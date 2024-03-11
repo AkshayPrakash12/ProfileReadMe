@@ -11,10 +11,10 @@ My aptitude for computer science lies in Machine Learning, Applied AI, CyberSecu
 
 # Languages:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqlite/sqlite-original-wordmark.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-plain.svg" width="50" height="50"/>
+  <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/></a>
+  <a href=https://en.wikipedia.org/wiki/HTML5><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="50" height="50"/></a>
+  <a href=https://www.sqlite.org/><img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqlite/sqlite-original-wordmark.svg" width="50" height="50"/></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-plain.svg" width="50" height="50"/></a>
   <a href=https://www.python.org><img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" width="50" height="50"/></a>
 </div>
 
@@ -22,12 +22,11 @@ My aptitude for computer science lies in Machine Learning, Applied AI, CyberSecu
 
 # Tools
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/markdown/markdown-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/flask/flask-original-wordmark.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original-wordmark.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pandas/pandas-original-wordmark.svg" width=50 height="50"/>
+  <a href="https://www.linux.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50" height="50"/></a>
+  <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="50" height="50"/></a>
+  <a href="https://jupyter.org/"><img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50"/></a>
+  <a href="https://en.wikipedia.org/wiki/Markdown"><img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/markdown/markdown-original.svg" width="50" height="50"/></a>
+  <a href="https://flask.palletsprojects.com/en/3.0.x/"><img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/flask/flask-original-wordmark.svg" width="50" height="50"/></a>
+  <a href="https://github.com/"><img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original-wordmark.svg" width="50" height="50"/></a>
+  <a href="https://pandas.pydata.org/"><img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pandas/pandas-original-wordmark.svg" width=50 height="50"/></a>
 </div>
