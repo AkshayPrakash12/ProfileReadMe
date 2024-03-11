@@ -13,7 +13,7 @@ I am Akshay prakash, A
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqlite/sqlite-original-wordmark.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-plain.svg" width="40" height="40"/>
-  <a href=python.org>
+  <a href=https://www.python.org>
     <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" width="40" height="40"/>
   </a>
   
