@@ -30,4 +30,5 @@ My aptitude for computer science lies in Machine Learning, Applied AI, CyberSecu
   <a href="https://flask.palletsprojects.com/en/3.0.x/"><img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/flask/flask-original-wordmark.svg" width="50" height="50"/></a>
   <a href="https://pandas.pydata.org/"><img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pandas/pandas-original-wordmark.svg" width=50 height="50"/></a>
   <a href="https://matplotlib.org/"><img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/matplotlib/matplotlib-original-wordmark.svg" width="50" height="50"/></a>
+  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"/><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="50" height="50"></a>
 </div>
