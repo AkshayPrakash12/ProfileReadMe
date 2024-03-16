@@ -24,9 +24,10 @@ My aptitude for computer science lies in Machine Learning, Applied AI, CyberSecu
 <div>
   <a href="https://www.linux.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50" height="50"/></a>
   <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="50" height="50"/></a>
+  <a href="https://github.com/"><img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original-wordmark.svg" width="50" height="50"/></a>
   <a href="https://jupyter.org/"><img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50"/></a>
   <a href="https://en.wikipedia.org/wiki/Markdown"><img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/markdown/markdown-original.svg" width="50" height="50"/></a>
   <a href="https://flask.palletsprojects.com/en/3.0.x/"><img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/flask/flask-original-wordmark.svg" width="50" height="50"/></a>
-  <a href="https://github.com/"><img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original-wordmark.svg" width="50" height="50"/></a>
   <a href="https://pandas.pydata.org/"><img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pandas/pandas-original-wordmark.svg" width=50 height="50"/></a>
+  <a href="https://matplotlib.org/"><img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/matplotlib/matplotlib-original-wordmark.svg" width="50" height="50"/></a>
 </div>
